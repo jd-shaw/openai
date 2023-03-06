@@ -27,3 +27,5 @@ replay_pid*
 /.gitattributes
 /mvnw.cmd
 /mvnw
+/.idea
+/openai.iml
