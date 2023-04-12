@@ -15,7 +15,6 @@ import com.shaw.openai.api.completion.chat.ChatMessage;
  * @date 2023/3/2
  */
 public class ChatTest {
-
 	OpenAi service = OpenAiService.getInstance();
 
 	@Test
